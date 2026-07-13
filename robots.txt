@@ -1,0 +1,6 @@
+# 允許所有搜尋引擎爬蟲抓取所有頁面
+User-agent: *
+Allow: /
+
+# 指定 Sitemap 位置
+Sitemap: https://g20243107.github.io/sitemap.xml
